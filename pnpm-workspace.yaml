@@ -1,0 +1,4 @@
+packages:
+  - play # 测试
+  - docs # 存放文档
+  - "packages/**"  # 存放包
